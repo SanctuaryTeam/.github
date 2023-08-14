@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SanctuaryTeam/.github-private/assets/139180262/d3cf47c1-31f0-4188-afa8-a827222a6c42" width="300"/>
+  <img src="https://github.com/SanctuaryTeam/.github-private/assets/139180262/d3cf47c1-31f0-4188-afa8-a827222a6c42" width="265"/>
 </p>
 
 # Sanctuary Team
@@ -9,6 +9,19 @@
 Sanctuary Team is a collection of community developers who's collective goal is to bring an official trading and auction house system to the majority of users through the modern web application technologies. We have decided to open the projects up to engage with those who want to contribute and bring the best possible product to the userbase.
 
 ## 🔥 How to contribute.
+
+We encourage community members to fork, clone, and check out the projects. We have provided some docker environments for getting the projects up and running as well as some READMEs to help explain any commands usages.
+Everything from features, bug fixes, code, and documentation can be contributed to the project. The only requirement that we ask, is that we aim to complete our initial goals that we have set in the project tracker before moving onto bigger scopes.
+
+### Links and Resources:
+[Main Project](https://github.com/orgs/SanctuaryTeam/projects/1) - The main project tracker, where we have posted our first round of requirements.
+
+[Front end repo](#) - The front end repository that contains the React project
+
+[Back end repo](#) - The back end repository that contains the NestJS project
+
+[Shared Repo](#) - The shared interface repository
+
 
 ## 📜 Useful resources
 
