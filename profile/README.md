@@ -56,12 +56,6 @@ Everything from features, bug fixes, code, and documentation can be contributed 
 
 - The Sanctuary team abides by the community guidelines of Github, Discord and Blizzard.
 - We also have a community guidelines for commiting changes or making changes to the website. Click [here](https://github.com/SanctuaryTeam/.github-private/blob/main/CODE_OF_CONDUCT.md) to find out more.
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-[homepage]: https://www.contributor-covenant.org
 
 ### Licensing
 
