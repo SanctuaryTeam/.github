@@ -19,11 +19,11 @@ Interesting fun facts about the team:
 
 [Main Project](https://github.com/orgs/SanctuaryTeam/projects/1) - The main project tracker, where we have posted our first round of requirements.
 
-[Front end repo](#) - The front end repository that contains the React project
+[Front end repo](https://github.com/SanctuaryTeam/diablo4trading-fe) - The front end repository that contains the React project
 
-[Back end repo](#) - The back end repository that contains the NestJS project
+[Back end repo](https://github.com/SanctuaryTeam/diablo4trading-be) - The back end repository that contains the NestJS project
 
-[Shared Repo](#) - The shared interface repository
+[Shared Repo](https://github.com/SanctuaryTeam/shared) - The shared interface repository
 
 ### Project Discussions
 
