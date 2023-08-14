@@ -54,8 +54,7 @@ Everything from features, bug fixes, code, and documentation can be contributed 
 
 ### Community Guidelines
 
-- The Sanctuary team abides by the community guidelines of Github, Discord and Blizzard.
-- We also have a community guidelines for commiting changes or making changes to the website. Click [here](https://github.com/SanctuaryTeam/.github-private/blob/main/CODE_OF_CONDUCT.md) to find out more.
+The Sanctuary team abides by the community guidelines of Github, Discord and Blizzard. We also have a community guidelines for commiting changes or making changes to the website. Click [here](https://github.com/SanctuaryTeam/.github-private/blob/main/CODE_OF_CONDUCT.md) to find out more.
 
 ### Licensing
 
