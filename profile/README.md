@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SanctuaryTeam/.github/assets/139180262/d3cf47c1-31f0-4188-afa8-a827222a6c42" width="265"/>
+  <img src= "https://github.com/SanctuaryTeam/.github/assets/96056869/27768244-9711-49a5-b132-8e1252633f88" width="265"/>
 </p>
 
 # Sanctuary Team
