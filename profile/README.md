@@ -1,4 +1,8 @@
-## Welcome to the team 🙌
+<p align="center">
+  <img src="https://github.com/SanctuaryTeam/.github-private/assets/139180262/d3cf47c1-31f0-4188-afa8-a827222a6c42">
+</p>
+
+## Sanctuary Team
 
 **Here are some ideas to get you started:**
 
