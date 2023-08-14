@@ -8,29 +8,15 @@
 
 Sanctuary Team is a collection of community developers who's collective goal is to bring an official trading and auction house system to the majority of users through the modern web application technologies. We have decided to open the projects up to engage with those who want to contribute and bring the best possible product to the userbase.
 
-## 📝 Fun facts
+Interesting fun facts about the team:
+
 - We all enjoy eating cookies when Developers do campfire chats.
-- The Diablo 4 Sanctuary is a 60+ member wide vounlentry team. 
+- The Diablo 4 Sanctuary team is a 60+ member wide voluntary team. 
 
-## 🔥 How to contribute.
+## 📜 Resources and Links
 
-We encourage community members to fork, clone, and check out the projects. We have provided some docker environments for getting the projects up and running as well as some READMEs to help explain any commands usages.
-Everything from features, bug fixes, code, and documentation can be contributed to the project. The only requirement that we ask, is that we aim to complete our initial goals that we have set in the project tracker before moving onto bigger scopes.
+### Project Information
 
-
-## 📜 Useful resources
-
-### Discord
-
-- [Diablo 4 Discord](https://discord.gg/diablo4) - The main sanctuary Discord 
-
-- [Announcements and news](https://discord.com/channels/989899054815281243/1140691939788849232) - Announcements & news made by project leaders
-
-- [In depth discussions](https://discord.com/channels/989899054815281243/1140692349773692968) - In-depth talks about the website
-
-- [Chat and discussion](https://discord.com/channels/989899054815281243/1140692313568456755) - General chat between all developers on the website
-
-### Additional Links:
 [Main Project](https://github.com/orgs/SanctuaryTeam/projects/1) - The main project tracker, where we have posted our first round of requirements.
 
 [Front end repo](#) - The front end repository that contains the React project
@@ -39,13 +25,34 @@ Everything from features, bug fixes, code, and documentation can be contributed 
 
 [Shared Repo](#) - The shared interface repository
 
-### Technologies
+### Project Discussions
 
-[TypeScript](https://github.com/microsoft/TypeScript)
+[Diablo 4 Discord](https://discord.gg/diablo4) - The main sanctuary Discord 
 
-[NestJS](https://github.com/nestjs/nest)
+[Announcements and news](https://discord.com/channels/989899054815281243/1140691939788849232) - Announcements & news made by project organizers
 
-[React](https://github.com/facebook/react)
+[In depth discussions](https://discord.com/channels/989899054815281243/1140692349773692968) - In-depth forum talks about the projects
 
-## Community Guidelines 
+[Chat and discussion](https://discord.com/channels/989899054815281243/1140692313568456755) - General chat between all community about the projects
+
+### Project Technologies
+
+We employ quite a bit of different technologies, but our current focus is on these three areas:
+
+- [TypeScript](https://github.com/microsoft/TypeScript) - Language used
+
+- [NestJS](https://github.com/nestjs/nest) - Back end technology
+
+- [React](https://github.com/facebook/react) - Front end technology
+
+## 🔥 How do I contribute?
+
+### Contributing
+
+We encourage community members to fork, clone, and check out the projects. We have provided some docker environments for getting the projects up and running as well as some READMEs to help explain any commands usages.
+Everything from features, bug fixes, code, and documentation can be contributed to the project. The only requirement that we ask, is that we aim to complete our initial goals that we have set in the project tracker before moving onto bigger scopes.
+
+### Community Guidelines
+
+### Licensing
 
