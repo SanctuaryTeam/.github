@@ -59,4 +59,4 @@ Everything from features, bug fixes, code, and documentation can be contributed 
 
 ### Licensing
 
-- The sanctuary team is using the MIT & Apache2 license. 
+The Sanctuary Team is using the Apache2 & MIT License
