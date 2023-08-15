@@ -45,6 +45,11 @@ We employ quite a bit of different technologies, but our current focus is on the
 
 - [React](https://github.com/facebook/react) - Front end technology
 
+### Proccess Documentation
+Here are some useful workflow links to prevent knowledge silos.
+
+- [Gitflow Process](GITFLOW.md) - For Gitflow standards, you can refer to the Gitflow Process document.
+
 ## 🔥 How do I contribute?
 
 ### Contributing
