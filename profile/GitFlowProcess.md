@@ -21,20 +21,24 @@ Git Workflow
     Action: Perform testing and any necessary bug fixes on the release branch.
     Note: Only critical bug fixes should be merged into the release branch at this point.
 
-5. Merge Release into Master/Main and Develop
+5. Merge Release into Main and Develop
 
-    Action: Merge the stable release branch into both the master/main and develop branches.
-    Benefit: Ensures that your main branch is always in sync with the latest stable release.
+    Action: Merge the stable release branch into both the main and develop branches.
+    Benefit: Ensures the main branch is always in sync with the latest stable release.
 
 6. Hotfixes
 
-    Issue: If a critical bug is discovered in the master/main branch.
-    Action: Create a hotfix branch from the master/main branch, fix the bug, and merge the hotfix back into both master/main and develop branches.
+    Issue: If a critical bug is discovered in the main branch.
+    Action: Create a hotfix branch from the main branch, fix the bug, and merge the hotfix back into both main and develop branches.
 
 Branch Descriptions
 
-    Master/Main Branch: Represents the stable codebase that is ready for deployment. Direct development should not occur on this branch.
+    Main Branch: Represents the stable codebase that is ready for deployment. Direct development should not occur on this branch.
+    
     Develop Branch: Serves as an integration branch for ongoing development work. All feature branches and bug fixes are merged into this branch.
+    
     Feature Branches: Dedicated branch for each new feature or task. Keeps the develop branch clean and facilitates concurrent feature development.
+    
     Release Branches: Branches created from the develop branch when preparing for a new version release. Allows code stabilization, bug fixes, and necessary adjustments.
+    
     Hotfix Branches: Branches created from master/main when a critical bug is found. They ensure prompt fixes without disrupting the main or develop branches.
