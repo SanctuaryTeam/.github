@@ -40,7 +40,10 @@ This guide provides instructions for setting up and running the Diablo4Trade pro
    Clone the repositories into the newly created directory sanctuaryteam.
 
 7. **Generate GitHub Personal Access Token:**
-   Create a new GitHub personal access token with the required scopes. [Directions for generating Token](https://github.com/settings/tokens/new).
+   Create a [new GitHub personal access token](https://github.com/settings/tokens/new) with the following scopes:
+    ```
+    read:packages
+    ```
 
 8. **Update .env Files:**
    For each repository, run `cp .env.example .env` to create a new `.env` file.
