@@ -14,7 +14,10 @@ This guide provides instructions for setting up and running the Diablo4Trade pro
    Install Windows Subsystem for Linux by following the official documentation.
 
 4. **Make sure Docker is installed.**
-   ```bash docker --version````
+   ```bash
+   docker --version
+   ```
+
 
 ## Cloning Repositories and Installing Packages
 
@@ -22,29 +25,38 @@ This guide provides instructions for setting up and running the Diablo4Trade pro
    Open a Windows Subsystem for Linux terminal on your Windows system.
 
 2. **Change Directory to Home:**
-   Navigate to your home directory by entering `cd ~` in the terminal.
+   Navigate to your home directory by entering in the terminal.
+   ```bash
+   cd ~
+   ```
 
-3. **Create a Directory for Repos:**
-   Create a directory to store repositories then navigate to the created directory by entering `mkdir ~/sanctuaryteam && cd ~/sanctuaryteam`.
+4. **Create a Directory for Repos:**
+   Create a directory to store repositories then navigate to the created directory by entering
+   ```bash
+   mkdir ~/sanctuaryteam && cd ~/sanctuaryteam
+   ```
 
-4. **Clone Repositories:**
+6. **Clone Repositories:**
    Clone the repositories into the newly created directory sanctuaryteam.
 
-5. **Generate GitHub Personal Access Token:**
+7. **Generate GitHub Personal Access Token:**
    Create a new GitHub personal access token with the required scopes. [Directions for generating Token](https://github.com/settings/tokens/new).
 
-6. **Update .env Files:**
+8. **Update .env Files:**
    For each repository, run `cp .env.example .env` to create a new `.env` file.
    Update the new `.env` file with `SANCTUARYTEAM_AUTH_TOKEN=YOUR_NEW_TOKEN`.  see __Editing on Windows__
 
-7. **Navigate to Repo:**
+9. **Navigate to Repo:**
    Navigate to the repository you want to contribute to, e.g., `~/sanctuaryteam/diablo4trading-xx`.
 
-8. **Run Docker Compose:**
+10. **Run Docker Compose:**
    Run `docker compose up` in the repository directory to install dependencies and start the development server.
 
-9. **Verify Setup:**
-   For a fresh setup, it's recommended to run `docker compose up` in both frontend and backend repositories to verify the setup.
+11. **Verify Setup:**
+   For a fresh setup, it's recommended to run in both frontend and backend repositories to verify the setup.
+```bash
+docker compose up
+```
 
 ## Editing on Windows
 
