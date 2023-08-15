@@ -14,7 +14,7 @@ This guide provides instructions for setting up and running the Diablo4Trade pro
    Install Windows Subsystem for Linux by following the official documentation.
 
 4. **Make sure Docker is installed.**
-   `docker --version`
+   ```bash docker --version````
 
 ## Cloning Repositories and Installing Packages
 
