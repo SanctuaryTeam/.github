@@ -13,6 +13,9 @@ This guide provides instructions for setting up and running the Diablo4Trade pro
 3. **Install WSL (Windows Subsystem for Linux):**
    Install Windows Subsystem for Linux by following the official documentation.
 
+4. **Make sure Docker is installed.**
+   `docker --version`
+
 ## Cloning Repositories and Installing Packages
 
 1. **Open WSL Terminal:**
